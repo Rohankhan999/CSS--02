@@ -7,6 +7,7 @@
     border-radius:30px;
     border:10px dotted orange;
 }
+
 #image{
     border-style:ridge ;
     border:5;
@@ -14,6 +15,7 @@
 
 }
 p{
+  background-color: darkkhaki;
     font-size:xx-large;
     overflow-y: scroll;
     height: 100px;
